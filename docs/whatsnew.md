@@ -47,11 +47,11 @@
 
 ## 13.01.2023
 
-- Добавлены уточнения о налогах и счете для возврата в [гайд](declarations.md#pit-godovaia-deklaratsiia) по декларации PIT.
+- Добавлены уточнения о налогах и счете для возврата в [гайд](declarations.md#pit-28-godovaia-deklaratsiia-rychalt) по декларации PIT.
 
 ## 12.01.2023
 
-- Добавлен [гайд](declarations.md#pit-godovaia-deklaratsiia) по созданию и отправке годовой декларации PIT.
+- Добавлен [гайд](declarations.md#pit-28-godovaia-deklaratsiia-rychalt) по созданию и отправке годовой декларации PIT.
 
 ## 11.01.2023
 
