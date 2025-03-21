@@ -38,8 +38,13 @@
 
 ### Шаг 0. Начало 
 
+Разработчики выпустили подробную видеоинструкцию (на польском) по заполнению декларации: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0rkiEWkmbGk?si=sKf-alP9ZO0ZbbJ5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Запустив программу в разделе "Kreator PIT" выберите PIT-36 и запустите мастер создания отчета. 
+
 ![Выбор][4]
+
 
 [0]: declarations.md#pit-28-godovaia-deklaratsiia-rychalt
 [1]: https://www.e-pity.pl
